@@ -1,0 +1,9 @@
+torchnet==0.0.4
+pydensecrf==1.0rc3
+numpy==1.18.2
+opencv_python==4.2.0.32
+tqdm==4.45.0
+torch==1.4.0
+torchvision==0.5.0
+Pillow==8.0.1
+tensorboardX==2.1
