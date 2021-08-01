@@ -1,5 +1,6 @@
 # Scribble-Supervised Semantic Segmentation by Random Walk on Neural Representation and Self-Supervision on Neural Eigenspace
-### Zhiyi Pan
+[Zhiyi Pan](https://github.com/panzhiyi), [Peng Jiang*](https://github.com/sdujump), Yunhai Wang, Changhe Tu, Anthony G. Cohn
+
 All the computations are carried out on NVIDIA TITAN RTX GPUs.
 
 ##### dataset
