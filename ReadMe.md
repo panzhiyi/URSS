@@ -1,5 +1,5 @@
 # Scribble-Supervised Semantic Segmentation by Random Walk on Neural Representation and Self-Supervision on Neural Eigenspace
-
+### Zhiyi Pan
 All the computations are carried out on NVIDIA TITAN RTX GPUs.
 
 ##### dataset
