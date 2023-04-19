@@ -1,7 +1,7 @@
-# Scribble-Supervised Semantic Segmentation by Random Walk on Neural Representation and Self-Supervision on Neural Eigenspace
+# Scribble-Supervised Semantic Segmentation by Uncertainty Reduction on Neural Representation and Self-Supervision on Neural Eigenspace
 [Zhiyi Pan](https://github.com/panzhiyi), [Peng Jiang*](https://github.com/sdujump), Yunhai Wang, Changhe Tu, Anthony G. Cohn
 
-The paper has been accepted by ICCV2021, and will be available later.
+The [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Pan_Scribble-Supervised_Semantic_Segmentation_by_Uncertainty_Reduction_on_Neural_Representation_and_ICCV_2021_paper.html) has been accepted by ICCV2021.
 
 ##### dataset
 
